@@ -22,6 +22,6 @@ GitHub Pages publica `docs/` desde la rama `main`. Después de editar, ejecutar 
 - `v2.css` y `globals.css`: diseño.
 - `public/`: fotos optimizadas, ilustraciones, textura y cursor. Se incluyen todos los recursos que utiliza la web, sin depender de Drive.
 
-La playlist queda indicada como disponible pronto hasta añadir su enlace real en `playlistUrl`.
+La playlist tiene enlaces a Spotify, YouTube Music y YouTube en `content.ts`. Las fotos usan `srcset` y versiones verticales de 900/1350 px para celulares, y versiones de hasta 3200 px de ancho para escritorio.
 
 Fotografías, ilustraciones y música pertenecen a sus respectivos titulares. La publicación de este repositorio no concede una licencia de reutilización sobre estos materiales.
